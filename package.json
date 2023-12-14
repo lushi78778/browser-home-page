@@ -1,0 +1,23 @@
+{
+  "name": "browser-home-page",
+  "version": "1.0.0",
+  "description": "一个定制化的简洁轻巧的起始页。",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -o -c-1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lushi78778/browser-home-page.git"
+  },
+  "keywords": [
+    "page",
+    "browse"
+  ],
+  "author": "lushi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lushi78778/browser-home-page/issues"
+  },
+  "homepage": "https://github.com/lushi78778/browser-home-page#readme"
+}

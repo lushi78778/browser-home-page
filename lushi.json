@@ -1,0 +1,32 @@
+{
+  "search": 2,
+  "background": 2,
+  "auto_focus": true,
+  "low_animate": 0,
+  "custom": [
+    {
+      "name": "网盘",
+      "url": "https://pan.ewlgc.top",
+      "icon": "iconfont icon-paul",
+      "color": "28b9be"
+    },
+    {
+      "name": "博客",
+      "url": "http://blog.ewlgc.top",
+      "icon": "fa fa-book",
+      "color": "6f9fc7"
+    }
+  ],
+  "sites": [
+    0,
+    5,
+    6,
+    8,
+    13,
+    14,
+    16,
+    34,
+    37,
+    42
+  ]
+}
